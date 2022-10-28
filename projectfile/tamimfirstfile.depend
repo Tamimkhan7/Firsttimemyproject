@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1666812170 source:c:\firstproject\fileproject\tamimfirstfile\main.cpp
+	<iostream>
+	"tamimfirstfile.h"
+
+1666790274 c:\firstproject\fileproject\tamimfirstfile\tamimfirstfile.h
+
+1666812051 source:c:\firstproject\fileproject\tamimfirstfile\tamimfirstfile.cpp
+	<iostream>
+	"tamimfirstfile.h"
+
